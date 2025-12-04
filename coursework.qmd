@@ -1,0 +1,76 @@
+---
+comments: false
+---
+### Professional Experience
+
+**Reinsurance Group of America** (Summer 2025)
+
+*Business Architecture Intern*
+
+* Contribute to the migration and modernization of legacy valuation systems onto enterprise data platforms (EDP), improving scalability and
+system performance.
+* Built and optimized financial and experience reporting dashboards by migrating from Tableau to Power BI with DirectQuery on large
+datasets, enabling real-time insights.
+* Optimized data pipelines using Alteryx workflows with advanced error handling, logic checks, and SQL/ETL integration to ensure
+accuracy and reliability across valuation reporting processes.
+* Collaborated cross-functionally with business strategy, analytics, and actuarial teams to streamline data workflows, standardize reporting
+logic, and strengthen the technical infrastructure supporting enterprise-wide data science initiatives.
+
+**Northrop Grumman** (Summer of 2024)
+
+*College Technical Intern*
+
+* Refactored C++ simulation code in simulation software (AFSIM) to develop and optimize radar search algorithms, improving rasterization
+efficiency and increasing area coverage by ~30% through parameter tuning and shape redesign.
+* Analyzed radar performance data using Python, calculating spatial coverage metrics and performing analysis to identify key variables
+influencing search effectiveness and guide algorithmic improvements.
+* Developed a digital controller prototype integrating real-time weather data APIs to model pre-flight environmental conditions and generate
+intuitive visual outputs, enhancing pilot decision-making support.
+* Created official technical documentation based on extensive research on search methods and AFSIM, defining radar accuracy and
+efficiency metrics, and outlining our Python-based calculation methodology for AFSIM.
+
+**UCLA Competitive Sports** (2023-present)
+
+*General Manager*
+
+* Check in intramural participants to their games and provide customer service to attendees and athletes.
+* Keep scores and times for games and help set up and tear down equipment and tents for events.
+
+
+### Relevent Courses at University of California, Los Angeles
+
++--------------------+------------------------------------------------------------------------------------+
+| **Course Number**  | **Course Name**                                                                    |                                                                 |
++--------------------+------------------------------------------------------------------------------------+
+| STATS 10           | Introduction to Statistical Reasoning                                              |
++--------------------+------------------------------------------------------------------------------------+
+| STATS 20           | Introduction to Statistical Programming with R                                     |
++--------------------+------------------------------------------------------------------------------------+
+| STATS 100A         | Introduction to Probability                                                        | 
++--------------------+------------------------------------------------------------------------------------+
+| STATS 100B         | Introduction to Mathematical Statistics                                            | 
++--------------------+------------------------------------------------------------------------------------+
+| STATS 100C         | Linear Models                                                                      | 
++--------------------+------------------------------------------------------------------------------------+
+| STATS 101A         | Introduction to Data Analysis and Regression                                       |
++--------------------+------------------------------------------------------------------------------------+
+| STATS 101B         | Introduction to Design and Analysis of Experiment                                  |
++--------------------+------------------------------------------------------------------------------------+
+| STATS 101C         | Introduction to Statistical Models and Data Mining                                 |
++--------------------+------------------------------------------------------------------------------------+
+| STATS 102A         | Introduction to Computational Statistics with R                                    |
++--------------------+------------------------------------------------------------------------------------+
+| STATS 102B         | Introduction to Computation and Optimization for Statistics                        |
++--------------------+------------------------------------------------------------------------------------+
+| STATS 102C         | Introduction to Monte Carlo Methods                                                |
++--------------------+------------------------------------------------------------------------------------+
+| STATS 140XP/ 141XP | Practice of Statistical Consulting                                                 | 
++--------------------+------------------------------------------------------------------------------------+
+| STATS 112          | Statistics: Window to Understanding Diversity                                      | 
++--------------------+------------------------------------------------------------------------------------+
+| COM SCI 31         | Introduction to Computer Science I (C++)                                           | 
++--------------------+------------------------------------------------------------------------------------+
+| PHYSICS 1A         | Mechanics                                                                          | 
++--------------------+------------------------------------------------------------------------------------+
+| PHYSICS 1B         | Oscillations, Waves, Electric and Magnetic Fields                                  | 
++--------------------+------------------------------------------------------------------------------------+

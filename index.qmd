@@ -1,0 +1,35 @@
+---
+comments: false
+title: "Claire Nabours"
+image: IMG_7608.jpg
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: rounded
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/claire-nabours-793496253/
+    - text: Email
+      icon: inbox
+      url: "mailto:cnabours@g.ucla.edu"
+    - text: Resume
+      url: "/_files/RS.pdf"
+    - text: CV
+      url: "/cv/CV/CV.pdf"
+---
+
+::: {.column-page}
+Hi, I'm Claire Nabours! I'm a senior at the University of California, Los Angeles majoring in Statistics and Data Science. I'm passionate about using data-driven insights to create meaningful change. I've gained professional experience working at Northrop Grumman and RGA, where I applied Python, R, and SQL to solve complex problems and support decision making. You can learn more about me from my [CV](/cv/CV/CV.pdf "CV") 
+
+### Education
+**Univerisity of California, Los Angeles** (2022-2026)
+
+*B.S. in Statistics and Data Science*
+
+### Contact:
+
+Email: cnabours@ucla.edu
+
+Phone: 636-515-5395
+:::

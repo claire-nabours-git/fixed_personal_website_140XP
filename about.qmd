@@ -1,0 +1,9 @@
+---
+comments: false
+title: "Project Showcase"
+listing:
+  contents: projects
+  type: grid
+---
+
+hi

@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs  
+  resources: 
+    - _files/RS.pdf 
+    - _files/female.pdf 
+    - _files/order.pdf 
+    - _files/EWC.pdf 
+    - _files/factorial.pdf 
+    
+website:
+  navbar:
+    right:
+      - text: About
+        href: index.qmd
+      - text: Project Showcase
+        href: about.qmd
+      - text: Relevant Experience and Coursework
+        href: coursework.qmd
+    left:
+      - icon: linkedin
+        aria-label: LinkedIn
+        href: https://www.linkedin.com/in/claire-nabours-793496253/
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    smooth-scroll: true
+    toc: false
+    page-layout: full
+    
