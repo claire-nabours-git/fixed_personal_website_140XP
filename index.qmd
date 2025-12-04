@@ -20,7 +20,7 @@ about:
 ---
 
 ::: {.column-page}
-Hi, I'm Claire Nabours! I'm a senior at the University of California, Los Angeles majoring in Statistics and Data Science. I'm passionate about using data-driven insights to create meaningful change. I've gained professional experience working at Northrop Grumman and RGA, where I applied Python, R, and SQL to solve complex problems and support decision making. You can learn more about me from my [CV](/cv/CV/CV.pdf "CV") 
+Hi, I'm Claire Nabours! I'm a senior at the University of California, Los Angeles majoring in Statistics and Data Science. I'm passionate about using data-driven insights to create meaningful change. I've gained professional experience working at Northrop Grumman and RGA, where I applied Python, R, and SQL to solve complex problems and support decision making. You can learn more about me from my [CV](/_files/CV.pdf "CV") 
 
 ### Education
 **Univerisity of California, Los Angeles** (2022-2026)
