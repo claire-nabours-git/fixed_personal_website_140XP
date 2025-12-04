@@ -1,0 +1,22 @@
+---
+comments: false
+title: "Orders Regression Report"
+image: order.jpg
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: rounded
+  links:
+    - text: Link to Project
+      url: "/_files/order.pdf"
+---
+
+::: {.column-page}
+**About This Report**
+
+This project analyzed Amazon consumer survey data to predict monthly state-level sales using regression modeling techniques. We applied exploratory data analysis, transformations, and feature engineering to address skewness, categorical effects, and multicollinearity. Six models were developed and compared using five-fold cross-validation with RMSE as the evaluation metric. XGBoost achieved the best performance, highlighting the importance of nonlinear modeling in capturing complex consumer purchasing patterns.
+
+**My Contributions**
+
+I created the exploratory data analysis and data visualization, producing plots and summaries to guide preprocessing decisions. I contributed to the design of the preprocessing pipeline, including transformations and feature engineering. I also implemented and evaluated linear, ridge, and lasso regression models, comparing their performance to other approaches. In addition, I wrote the Exploratory Data Analysis and co-wrote the Preprocessing sections of the report and contributed to the Results and Discussion.
+:::

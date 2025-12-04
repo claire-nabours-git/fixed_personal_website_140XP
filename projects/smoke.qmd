@@ -1,0 +1,24 @@
+---
+comments: false
+title: "Factorial Approach to Assessing Nicotine and Caffeine’s Effects on Short-Term Cognitive Performance"
+image: nic.jpg
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: rounded
+  links:
+    - text: Link to Project
+      url: "/_files/factorial.pdf"
+---
+
+::: {.column-page}
+**About This Report**
+
+This project utilized a 2^2 factorial experimental design with blocking to examine the short-term cognitive effects of nicotine and caffeine. The study measured changes in memory task performance among participants across treatment combinations, while controlling for age and time of day. Through statistical modeling, ANOVA analysis, and diagnostic checks, the report evaluates the main and interaction effects of the two stimulants. The goal of this work was to better understand how substances commonly consumed by students influence short-term memory performance and whether they interact in meaningful ways.
+
+
+**My Contributions**
+
+I helped run the experiment itself, ensuring treatments were administered properly and data collection was consistent across participants. I also played a role in designing the factorial experiment and explaining its structure, including the blocking factors of age and time of day. I also worked on verifying and interpreting the model assumptions and contributed to writing the discussion section, where we connected statistical results to broader implications for cognitive performance and student behavior.
+
+:::

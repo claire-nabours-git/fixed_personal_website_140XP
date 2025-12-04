@@ -1,0 +1,23 @@
+---
+comments: false
+title: "Gender Attitudes And Demographics’ effects on Female Leadership"
+image: female.jpg
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: rounded
+  links:
+    - text: Link to Project
+      url: "/_files/female.pdf"
+---
+
+::: {.column-page}
+**About This Report**
+
+This project investigated how demographics and attitudes toward women influence voting behavior, with a focus on support for women in public office and political party preference. Using multiple linear regression, logistic regression, and random forest models, the study examined the relative importance of attitudinal versus demographic predictors. Exploratory data analysis, variable importance plots, and refined modeling approaches were used to identify key factors influencing public office support and political alignment, while assessing model assumptions and addressing potential overfitting. The goal was to understand the role of gender attitudes in shaping political behavior and to provide insights into promoting equitable perceptions of leadership.
+
+
+**My Contributions**
+
+I contributed to writing the introduction, abstract, conclusion, and limitations and recommendations, ensuring clarity and cohesion across the report. I developed the model variables section, describing both demographic and attitudinal predictors, and worked on checking model assumptions and interpreting interaction effects to prevent overfitting. These efforts helped frame the project's methodology, interpret statistical findings, and connect results to broader implications for support of women in leadership and political behavior.
+:::

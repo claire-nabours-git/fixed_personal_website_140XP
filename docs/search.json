@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "",
+    "section": "",
+    "text": "Professional Experience\nReinsurance Group of America (Summer 2025)\nBusiness Architecture Intern\n\nContribute to the migration and modernization of legacy valuation systems onto enterprise data platforms (EDP), improving scalability and system performance.\nBuilt and optimized financial and experience reporting dashboards by migrating from Tableau to Power BI with DirectQuery on large datasets, enabling real-time insights.\nOptimized data pipelines using Alteryx workflows with advanced error handling, logic checks, and SQL/ETL integration to ensure accuracy and reliability across valuation reporting processes.\nCollaborated cross-functionally with business strategy, analytics, and actuarial teams to streamline data workflows, standardize reporting logic, and strengthen the technical infrastructure supporting enterprise-wide data science initiatives.\n\nNorthrop Grumman (Summer of 2024)\nCollege Technical Intern\n\nRefactored C++ simulation code in simulation software (AFSIM) to develop and optimize radar search algorithms, improving rasterization efficiency and increasing area coverage by ~30% through parameter tuning and shape redesign.\nAnalyzed radar performance data using Python, calculating spatial coverage metrics and performing analysis to identify key variables influencing search effectiveness and guide algorithmic improvements.\nDeveloped a digital controller prototype integrating real-time weather data APIs to model pre-flight environmental conditions and generate intuitive visual outputs, enhancing pilot decision-making support.\nCreated official technical documentation based on extensive research on search methods and AFSIM, defining radar accuracy and efficiency metrics, and outlining our Python-based calculation methodology for AFSIM.\n\nUCLA Competitive Sports (2023-present)\nGeneral Manager\n\nCheck in intramural participants to their games and provide customer service to attendees and athletes.\nKeep scores and times for games and help set up and tear down equipment and tents for events.\n\n\n\nRelevent Courses at University of California, Los Angeles\n\n\n\n\n\n\n\nCourse Number\nCourse Name\n\n\nSTATS 10\nIntroduction to Statistical Reasoning\n\n\nSTATS 20\nIntroduction to Statistical Programming with R\n\n\nSTATS 100A\nIntroduction to Probability\n\n\nSTATS 100B\nIntroduction to Mathematical Statistics\n\n\nSTATS 100C\nLinear Models\n\n\nSTATS 101A\nIntroduction to Data Analysis and Regression\n\n\nSTATS 101B\nIntroduction to Design and Analysis of Experiment\n\n\nSTATS 101C\nIntroduction to Statistical Models and Data Mining\n\n\nSTATS 102A\nIntroduction to Computational Statistics with R\n\n\nSTATS 102B\nIntroduction to Computation and Optimization for Statistics\n\n\nSTATS 102C\nIntroduction to Monte Carlo Methods\n\n\nSTATS 140XP/ 141XP\nPractice of Statistical Consulting\n\n\nSTATS 112\nStatistics: Window to Understanding Diversity\n\n\nCOM SCI 31\nIntroduction to Computer Science I (C++)\n\n\nPHYSICS 1A\nMechanics\n\n\nPHYSICS 1B\nOscillations, Waves, Electric and Magnetic Fields"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Claire Nabours",
+    "section": "",
+    "text": "Hi, I’m Claire Nabours! I’m a senior at the University of California, Los Angeles majoring in Statistics and Data Science. I’m passionate about using data-driven insights to create meaningful change. I’ve gained professional experience working at Northrop Grumman and RGA, where I applied Python, R, and SQL to solve complex problems and support decision making. You can learn more about me from my CV\n\nEducation\nUniverisity of California, Los Angeles (2022-2026)\nB.S. in Statistics and Data Science\n\n\nContact:\nEmail: cnabours@ucla.edu\nPhone: 636-515-5395"
+  },
+  {
+    "objectID": "projects/smoke.html",
+    "href": "projects/smoke.html",
+    "title": "Factorial Approach to Assessing Nicotine and Caffeine’s Effects on Short-Term Cognitive Performance",
+    "section": "",
+    "text": "About This Report\nThis project utilized a 2^2 factorial experimental design with blocking to examine the short-term cognitive effects of nicotine and caffeine. The study measured changes in memory task performance among participants across treatment combinations, while controlling for age and time of day. Through statistical modeling, ANOVA analysis, and diagnostic checks, the report evaluates the main and interaction effects of the two stimulants. The goal of this work was to better understand how substances commonly consumed by students influence short-term memory performance and whether they interact in meaningful ways.\nMy Contributions\nI helped run the experiment itself, ensuring treatments were administered properly and data collection was consistent across participants. I also played a role in designing the factorial experiment and explaining its structure, including the blocking factors of age and time of day. I also worked on verifying and interpreting the model assumptions and contributed to writing the discussion section, where we connected statistical results to broader implications for cognitive performance and student behavior."
+  },
+  {
+    "objectID": "projects/orders.html",
+    "href": "projects/orders.html",
+    "title": "Orders Regression Report",
+    "section": "",
+    "text": "About This Report\nThis project analyzed Amazon consumer survey data to predict monthly state-level sales using regression modeling techniques. We applied exploratory data analysis, transformations, and feature engineering to address skewness, categorical effects, and multicollinearity. Six models were developed and compared using five-fold cross-validation with RMSE as the evaluation metric. XGBoost achieved the best performance, highlighting the importance of nonlinear modeling in capturing complex consumer purchasing patterns.\nMy Contributions\nI created the exploratory data analysis and data visualization, producing plots and summaries to guide preprocessing decisions. I contributed to the design of the preprocessing pipeline, including transformations and feature engineering. I also implemented and evaluated linear, ridge, and lasso regression models, comparing their performance to other approaches. In addition, I wrote the Exploratory Data Analysis and co-wrote the Preprocessing sections of the report and contributed to the Results and Discussion."
+  },
+  {
+    "objectID": "projects/masked.html",
+    "href": "projects/masked.html",
+    "title": "The Masked Miles Project",
+    "section": "",
+    "text": "About This Report\nMasked Miles is a digital humanities project that examines how COVID-19 reshaped travel in the United States, focusing on California and Florida. By comparing state-level policies, mobility trends, and case rates, the project reveals how contrasting responses to the pandemic influenced travel behaviors, tourism, and public health outcomes—highlighting the human story behind pandemic travel.\nMy Contributions\nI served as the project manager, coordinating workflow and deadlines to ensure smooth collaboration. I also explored and analyzed the data, created visualizations to support the narrative, and contributed to writing the narrative itself. In addition, I worked on the design and development of the website, shaping both the overall look and the main content pages."
+  },
+  {
+    "objectID": "projects/electionclass.html",
+    "href": "projects/electionclass.html",
+    "title": "Election Winner Classification Report",
+    "section": "",
+    "text": "About This Report\nThe Election Winner Classification Report is a project that investigates the use of predictive modeling for classification of U.S. election outcomes. By applying models such as logistic regression, decision trees, and ensemble methods, the project evaluates how demographic, political, and socioeconomic features contribute to predicting winners. The report provides insight into which variables most strongly influence results.\nMy Contributions\nI focused on developing and optimizing the models for this project. Specifically, I built logistic regression, linear discriminant analysis, quadratic discriminant analysis, and support vector machine models, incorporating preprocessing techniques and Bayesian optimization to improve performance. In addition, I conducted the exploratory data analysis (EDA), creating visualizations and statistical summaries to uncover trends in the dataset and guide model design. I also contributed to the final report by writing the EDA and model development sections, ensuring the methodology and findings were clearly communicated."
+  },
+  {
+    "objectID": "projects/female.html",
+    "href": "projects/female.html",
+    "title": "Gender Attitudes And Demographics’ effects on Female Leadership",
+    "section": "",
+    "text": "About This Report\nThis project investigated how demographics and attitudes toward women influence voting behavior, with a focus on support for women in public office and political party preference. Using multiple linear regression, logistic regression, and random forest models, the study examined the relative importance of attitudinal versus demographic predictors. Exploratory data analysis, variable importance plots, and refined modeling approaches were used to identify key factors influencing public office support and political alignment, while assessing model assumptions and addressing potential overfitting. The goal was to understand the role of gender attitudes in shaping political behavior and to provide insights into promoting equitable perceptions of leadership.\nMy Contributions\nI contributed to writing the introduction, abstract, conclusion, and limitations and recommendations, ensuring clarity and cohesion across the report. I developed the model variables section, describing both demographic and attitudinal predictors, and worked on checking model assumptions and interpreting interaction effects to prevent overfitting. These efforts helped frame the project’s methodology, interpret statistical findings, and connect results to broader implications for support of women in leadership and political behavior."
+  },
+  {
+    "objectID": "projects/blog.html",
+    "href": "projects/blog.html",
+    "title": "Intersection of Arts and Sciences Blog",
+    "section": "",
+    "text": "About This Report\nThis blog was created as part of UCLA’s DESMA 9 course (Art, Science & Technology). It documents my weekly reflections, event write-ups, and projects that explore the intersections of art, science, and technology. Through it, I connected course concepts to real-world examples, exhibitions, and research while developing a personal voice in analyzing how creativity and innovation intersect across disciplines.\nMy Contributions\nI researched, wrote, and designed all blog posts, focusing on connecting course material to real-world examples. My work included analyzing museum exhibits, lectures, and artistic movements, and presenting them through a personal and reflective lens. I also managed the overall structure and look of the blog to ensure it was clear and engaging."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Project Showcase",
+    "section": "",
+    "text": "Election Winner Classification Report\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFactorial Approach to Assessing Nicotine and Caffeine’s Effects on Short-Term Cognitive Performance\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGender Attitudes And Demographics’ effects on Female Leadership\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntersection of Arts and Sciences Blog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrders Regression Report\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Masked Miles Project\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]

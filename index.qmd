@@ -16,7 +16,7 @@ about:
     - text: Resume
       url: "/_files/RS.pdf"
     - text: CV
-      url: "/cv/CV/CV.pdf"
+      url: "/_files/CV.pdf"
 ---
 
 ::: {.column-page}

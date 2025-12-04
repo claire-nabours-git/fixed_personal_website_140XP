@@ -1,0 +1,23 @@
+---
+comments: false
+title: "Intersection of Arts and Sciences Blog"
+image: blog.png
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: rounded
+  links:
+    - text: Link to Project
+      url: https://clairenaboursdesma9.blogspot.com/
+---
+
+::: {.column-page}
+**About This Report**
+
+This blog was created as part of UCLA’s DESMA 9 course (Art, Science & Technology). It documents my weekly reflections, event write-ups, and projects that explore the intersections of art, science, and technology. Through it, I connected course concepts to real-world examples, exhibitions, and research while developing a personal voice in analyzing how creativity and innovation intersect across disciplines.
+
+
+**My Contributions**
+
+I researched, wrote, and designed all blog posts, focusing on connecting course material to real-world examples. My work included analyzing museum exhibits, lectures, and artistic movements, and presenting them through a personal and reflective lens. I also managed the overall structure and look of the blog to ensure it was clear and engaging.
+:::

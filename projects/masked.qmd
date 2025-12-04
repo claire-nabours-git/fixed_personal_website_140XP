@@ -1,0 +1,22 @@
+---
+comments: false
+title: "The Masked Miles Project"
+image: mask.jpg
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: rounded
+  links:
+    - text: Link to Project
+      url: https://maskedmiles.humspace.ucla.edu/
+---
+
+::: {.column-page}
+**About This Report**
+
+Masked Miles is a digital humanities project that examines how COVID-19 reshaped travel in the United States, focusing on California and Florida. By comparing state-level policies, mobility trends, and case rates, the project reveals how contrasting responses to the pandemic influenced travel behaviors, tourism, and public health outcomes—highlighting the human story behind pandemic travel.
+
+**My Contributions**
+
+I served as the project manager, coordinating workflow and deadlines to ensure smooth collaboration. I also explored and analyzed the data, created visualizations to support the narrative, and contributed to writing the narrative itself. In addition, I worked on the design and development of the website, shaping both the overall look and the main content pages.
+:::
