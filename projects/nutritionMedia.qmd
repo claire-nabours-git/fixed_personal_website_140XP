@@ -1,0 +1,26 @@
+---
+comments: false
+title: "Framing Food and Authority: A Social Media Analysis of Nutrition Influencers and Audience Reactions"
+image: food.png
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: rounded
+  links:
+    - text: Link to Project
+      url: "/_files/food.pdf"
+---
+::: {.column-page}
+**About This Report**
+
+Framing Food and Authority: A Social Media Analysis of Nutrition Influencers and Audience Reactions is a digital humanities research project. The project examines how nutrition influencers construct authority on social media, focusing on Twitter/X discourse surrounding Nina Teicholz. Using a mixed-methods approach that combines discourse analysis with computational techniques such as sentiment analysis, topic modeling, and social network analysis, the study explores how language, framing, and emotional appeals shape public responses to contested nutrition science.
+
+**My Contributions**
+
+I contributed with writing the Platform, Topic, and Selection Criteria, Findings, and Conclusion sections, synthesizing computational results with rhetorical analysis. I also assisted where possible with code development for data collection and analysis and helped edit the final report. Additionally, I created the project’s public website, translating academic findings into accessible content for a broader audience.
+
+
+**Link to Project Website**
+
+[Food and Authority Website](https://cnabours.wixsite.com/framingfoodauth)
+:::
