@@ -8,7 +8,7 @@ about:
   image-shape: rounded
   links:
     - text: Link to Project
-      url: "/_files/food.pdf"
+      url: "/_files/whitepaper.pdf"
 ---
 ::: {.column-page}
 **About This Report**
