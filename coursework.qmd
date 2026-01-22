@@ -3,31 +3,31 @@ comments: false
 ---
 ### Professional Experience
 
+**ACM-W Tech Fellowship** (Winter 2026-Spring 2026)
+
+*Product Management and Software Engineering Fellow*
+
+Will collaborate in cross-functional teams to design and build a product using product management and software engineering practices, participate in mentor-led workshops, and deliver a data-driven final pitch presenting our product and technical implementation to industry professionals.
+
+
 **Reinsurance Group of America** (Summer 2025)
 
 *Business Architecture Intern*
 
-* Contribute to the migration and modernization of legacy valuation systems onto enterprise data platforms (EDP), improving scalability and
-system performance.
-* Built and optimized financial and experience reporting dashboards by migrating from Tableau to Power BI with DirectQuery on large
-datasets, enabling real-time insights.
-* Optimized data pipelines using Alteryx workflows with advanced error handling, logic checks, and SQL/ETL integration to ensure
-accuracy and reliability across valuation reporting processes.
-* Collaborated cross-functionally with business strategy, analytics, and actuarial teams to streamline data workflows, standardize reporting
-logic, and strengthen the technical infrastructure supporting enterprise-wide data science initiatives.
+* Contributed to migrating and modernizing legacy valuation systems onto enterprise data platforms (EDP), improving scalability, maintainability, and overall performance while ensuring alignment with enterprise architecture standards.
+* Designed, developed, and optimized financial and operational reporting dashboards by transitioning from Tableau to Power BI, implementing DirectQuery for large datasets, enabling real-time insights, and improving decision-making efficiency across business units.
+* Optimized data pipelines through advanced Alteryx workflows, incorporating robust error handling, validation logic, automated quality checks, and seamless SQL and ETL integration to ensure high data integrity, reliability, and process efficiency in valuation reporting.
+* Collaborated cross-functionally with business strategy, analytics, and actuarial teams to streamline data workflows, standardize reporting logic, and strengthen the technical infrastructure supporting enterprise-wide data science initiatives.
 
 **Northrop Grumman** (Summer of 2024)
 
 *College Technical Intern*
 
-* Refactored C++ simulation code in simulation software (AFSIM) to develop and optimize radar search algorithms, improving rasterization
-efficiency and increasing area coverage by ~30% through parameter tuning and shape redesign.
-* Analyzed radar performance data using Python, calculating spatial coverage metrics and performing analysis to identify key variables
-influencing search effectiveness and guide algorithmic improvements.
-* Developed a digital controller prototype integrating real-time weather data APIs to model pre-flight environmental conditions and generate
-intuitive visual outputs, enhancing pilot decision-making support.
-* Created official technical documentation based on extensive research on search methods and AFSIM, defining radar accuracy and
-efficiency metrics, and outlining our Python-based calculation methodology for AFSIM.
+* Re factored and optimized C++ simulation code within AFSIM to enhance radar search algorithms, improving rasterization efficiency and increasing area coverage by ~30% through parameter tuning, algorithmic redesign, and advanced performance optimization techniques.
+* Conducted radar performance analysis using Python, deriving novel spatial coverage metrics not previously available, performing multivariate analysis, and identifying critical factors influencing search effectiveness to inform algorithmic enhancements.
+* Designed and implemented a digital controller prototype integrating real-time weather data APIs, modeling dynamic pre-flight environmental conditions, generating interactive visualizations, and supporting data-driven pilot decision-making.
+* Developed official technical documentation and standardized methodologies based on research of radar search strategies and AFSIM simulations, defining quantitative metrics for radar accuracy and efficiency, and detailing Python workflows for reproducible results.
+
 
 **UCLA Competitive Sports** (2023-present)
 
@@ -69,6 +69,8 @@ efficiency metrics, and outlining our Python-based calculation methodology for A
 | STATS 112          | Statistics: Window to Understanding Diversity                                      | 
 +--------------------+------------------------------------------------------------------------------------+
 | COM SCI 31         | Introduction to Computer Science I (C++)                                           | 
++--------------------+------------------------------------------------------------------------------------+
+| COM SCI 32         | Introduction to Computer Science II (C++)                                           | 
 +--------------------+------------------------------------------------------------------------------------+
 | PHYSICS 1A         | Mechanics                                                                          | 
 +--------------------+------------------------------------------------------------------------------------+

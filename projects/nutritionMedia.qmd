@@ -8,7 +8,7 @@ about:
   image-shape: rounded
   links:
     - text: Link to Project
-      url: "/_files/whitepaper.pdf"
+      url: "_files/dgtwhitepaper.pdf"
 ---
 ::: {.column-page}
 **About This Report**

@@ -8,6 +8,7 @@ project:
     - _files/order.pdf 
     - _files/EWC.pdf 
     - _files/factorial.pdf 
+    - _files/dgtwhitepaper.pdf
     
 website:
   navbar:
