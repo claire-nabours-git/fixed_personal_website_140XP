@@ -1,7 +1,7 @@
 ---
 comments: false
 title: "Claire Nabours"
-image: IMG_7608.jpg
+image: profile.jpg
 about:
   template: trestles
   image-width: 20em
@@ -20,12 +20,17 @@ about:
 ---
 
 ::: {.column-page}
-Hi, I'm Claire Nabours! I'm a senior at the University of California, Los Angeles majoring in Statistics and Data Science. I'm passionate about using data-driven insights to create meaningful change. I've gained professional experience working at Northrop Grumman and RGA, where I applied Python, R, and SQL to solve complex problems and support decision making. You can learn more about me from my [CV](/_files/CV.pdf "CV") 
+Hi! I’m Claire Nabours and I'm a senior at the University of California, Los Angeles majoring in Statistics and Data Science. I am passionate about building data-driven products that create meaningful impact. At Northrop Grumman and Reinsurance Group of America, I applied Python, R, and SQL to solve complex technical problems while translating analytical insights into scalable solutions that support business decision-making. Through my Product Management and Software Engineering Fellowship, I have gained experience guiding products from user discovery to MVP delivery, aligning cross-functional teams, prioritizing features, and ensuring technical execution drives real-world outcomes. You can learn more about my work and product experience in the project showcase tab!
 
 ### Education
 **Univerisity of California, Los Angeles** (2022-2026)
 
 *B.S. in Statistics and Data Science*
+
+### Skills:
+Python, R, SQL, C++, Snowflake, Power BI, Tableau, Data Analysis, ETL, Simulation, Modeling, Optimization Methods, Neural Networks, Probability and Statistics, Experimental Design, Software Engineering, Cross-Functional Communication, MVP Delivery, and Agile Methodologies.
+
+
 
 ### Contact:
 

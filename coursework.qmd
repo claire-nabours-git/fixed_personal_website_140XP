@@ -7,17 +7,22 @@ comments: false
 
 *Product Management and Software Engineering Fellow*
 
-Will collaborate in cross-functional teams to design and build a product using product management and software engineering practices, participate in mentor-led workshops, and deliver a data-driven final pitch presenting our product and technical implementation to industry professionals.
+* Selected as a fellow in a two-quarter technical fellowship focused on end-to-end product development, integrating software engineering with product strategy to guide ideas from user discovery through prototyping, iteration, and minimum viable product (MVP) delivery.
+* Participate in a multidisciplinary team to architect, design, and implement a web application that helps users discover on- and off-campus study locations, incorporating AI-driven personalization to recommend spaces based on user preferences, needs, and usage patterns.
+* Apply product management frameworks and software development best practices across the full product lifecycle, while participating in technical and strategic workshops on product strategy, system design, and agile execution to drive measurable weekly progress.
+* Will develop and deliver a data-driven, stakeholder-focused final pitch presenting product vision, technical implementation, and market rationale to industry professionals, startup founders, and alumni, emphasizing impact, scalability, and feasibility.
+
 
 
 **Reinsurance Group of America** (Summer 2025)
 
 *Business Architecture Intern*
 
-* Contributed to migrating and modernizing legacy valuation systems onto enterprise data platforms (EDP), improving scalability, maintainability, and overall performance while ensuring alignment with enterprise architecture standards.
+* Contributed to migrating and modernizing legacy valuation systems onto enterprise data platforms (EDP), improving scalability, maintainability, and overall performance while ensuring new systems’ alignment with enterprise architecture standards.
 * Designed, developed, and optimized financial and operational reporting dashboards by transitioning from Tableau to Power BI, implementing DirectQuery for large datasets, enabling real-time insights, and improving decision-making efficiency across business units.
 * Optimized data pipelines through advanced Alteryx workflows, incorporating robust error handling, validation logic, automated quality checks, and seamless SQL and ETL integration to ensure high data integrity, reliability, and process efficiency in valuation reporting.
-* Collaborated cross-functionally with business strategy, analytics, and actuarial teams to streamline data workflows, standardize reporting logic, and strengthen the technical infrastructure supporting enterprise-wide data science initiatives.
+* Collaborated cross-functionally with business strategy, analytics, and actuarial teams to streamline data workflows, standardize reporting logic, and strengthen the technical infrastructure supporting enterprise-wide data science initiatives and data products.
+
 
 **Northrop Grumman** (Summer of 2024)
 
